@@ -1,2 +1,16 @@
-This is yandex exercises.
-Course GIT.
+# Курс GIT на Яндекс Практикум.
+
+_Курс по изучению основ **GIT и GITHUB**_
+
+## При этом практикуется и командная строка
+
+часто используемые команды:
+
+```bash
+ls -la
+cd ./dir
+mkdir ./dir
+rm ./file
+rm -r ./dir
+
+```
